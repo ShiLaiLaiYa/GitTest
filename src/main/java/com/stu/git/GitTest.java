@@ -6,5 +6,7 @@ package com.stu.git;/*
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("我不是赖赖");
+        System.out.println("我不是赖赖");
+
     }
 }
